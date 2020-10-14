@@ -26,3 +26,8 @@ Run the following command to run startup migrations.
 ```js
 adonis migration:run
 ```
+
+### Project
+
+This project serves to make apponitment of tasks, it's a API module, wich serves to help people to make their arrangements.
+
